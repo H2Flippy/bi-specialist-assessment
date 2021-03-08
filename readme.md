@@ -51,23 +51,11 @@ You can do anything you want. Show us some interesting information you can disco
 | Netflix\_titles | Rating | TV Rating of the movie / show |
 | Netflix\_titles | Description | The summary description |
 | Netflix\_titles | Show\_id | Unique ID for every Movie / Tv Show |
-|
- |
- |
- |
 | Netflix\_titles\_directors | Director | Director of the Movie |
 | Netflix\_titles\_directors | Show\_id | Unique ID for every Movie / Tv Show |
-|
- |
- |
- |
 | Netflix\_titles\_countries | Country | Country where the movie / show was produced |
 | Netflix\_titles\_countries | Show\_id | Unique ID for every Movie / Tv Show |
 | Netflix\_titles\_cast | Cast | Actors involved in the movie / show |
 | Netflix\_titles\_cast | Show\_id | Unique ID for every Movie / Tv Show |
-|
- |
- |
- |
 | Netflix\_titles\_category | Category | genre |
 | Netflix\_titles\_category | Show\_id | Unique ID for every Movie / Tv Show |
